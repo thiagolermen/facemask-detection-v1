@@ -16,6 +16,9 @@ The face mask detection models was made with two mainstream deep learning framew
   2. Keras
 It was used OpenCV and NumPy for image processing.
 
+Training set: 80%
+Cross validation set: 20%
+
 ## Model structure
 The program was executed using Google Collaboratory.
 The input size of the model is 224x224 (MobileNet default input).
