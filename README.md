@@ -2,7 +2,7 @@
 
 ## About
 
-Masks play a crucial role in protecting the health of individuals against respiratory diseases, as is one of the few precautions available for COVID-19 in the absence of immunization. Was used a dataset that contains 3797 images belonging to the 2 classes.
+Masks play a crucial role in protecting the health of individuals against respiratory diseases, as is one of the few precautions available for COVID-19 in the absence of immunization. Was used a dataset that contains 3829 images belonging to the 2 classes.
 The classes are:
 
 - With mask;
