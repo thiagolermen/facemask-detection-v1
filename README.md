@@ -15,8 +15,16 @@ The face mask detection models was made with two mainstream deep learning framew
   2. Keras
 Was used OpenCV and NumPy for image processing.
 
-Training set: 80%
-Cross validation set: 20%
+## Dataset
+The following dataset was used for training and testing:
+  - [Dataset](https://www.kaggle.com/thiagolermen/dataset-face-mask-detection)
+
+The dataset was divided into a training set and a cross validation set as follows:
+  - Training set: 80%
+  - Cross validation set: 20%
+### Data preprocessing
+  1. Resizing and rescaling: all the images were resized to 224x224 and 1/255 rescaling;
+  2. Data augmentation: to train the model, data augmentation was used to expand the size of the training set
 
 ## Model structure
 The program was executed using Google Collaboratory.
