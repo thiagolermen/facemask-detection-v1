@@ -1,4 +1,7 @@
-# facemask-detection-v1
+# Face Mask Detection
+
+![image](https://user-images.githubusercontent.com/49798588/120672034-52385b00-c468-11eb-8597-b1853bc6ad22.png)
+Image from [LogMask](https://www.logmask.com/en)
 
 ## About
 
