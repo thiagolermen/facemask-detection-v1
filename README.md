@@ -35,5 +35,5 @@ The input size of the model is 224x224 (MobileNet default input).
 It was MobileNet as a pretrained model and was added two more layers for fine tuning (flatten, and dense with binary output using sigmoid activation function).
 
 ## Training and validation data
-![image]()
+![download](https://user-images.githubusercontent.com/49798588/120581627-7f9dee00-c401-11eb-8393-d6c0ebfb9bc0.png)
 
