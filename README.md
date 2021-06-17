@@ -23,6 +23,9 @@ It was used OpenCV and NumPy for image processing.
 The following dataset was used for training and testing:
   - [Dataset](https://www.kaggle.com/thiagolermen/dataset-face-mask-detection)
 
+![dataset](https://user-images.githubusercontent.com/49798588/122326299-73865600-cf02-11eb-8d61-e35ac06b7578.png)
+
+
 The dataset was divided into a training set and a cross validation set as follows:
   - Training set: 80%
   - Cross validation set: 20%
