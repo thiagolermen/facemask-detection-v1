@@ -50,7 +50,7 @@ def initialize_model():
 #   saving the model checkpoint when training_loss < 0.005 in the 'dataset/saves/'
 #   folder
 def train(model, optimizer, loss_fn, train_loader, val_loader, epochs, device):
-    writer = SummaryWriter('saves/logs')
+    writer = SummaryWriter()
     for epoch in tqdm(range(epochs)):
         training_loss = 0.0
         valid_loss = 0.0
@@ -95,7 +95,6 @@ def train(model, optimizer, loss_fn, train_loader, val_loader, epochs, device):
         writer.add_scalar('Test/Loss', valid_loss, epoch)
         writer.add_scalar('Test/Accuracy', num_correct / num_examples, epoch)
         writer.flush()
-
 
 
 # Test
