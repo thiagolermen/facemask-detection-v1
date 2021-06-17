@@ -1,3 +1,4 @@
+![Sem título](https://user-images.githubusercontent.com/49798588/122326591-ea235380-cf02-11eb-904e-5f852132d865.png)
 # Face Mask Detection
 
 ![image](https://user-images.githubusercontent.com/49798588/120672034-52385b00-c468-11eb-8597-b1853bc6ad22.png)
@@ -23,8 +24,7 @@ It was used OpenCV and NumPy for image processing.
 The following dataset was used for training and testing:
   - [Dataset](https://www.kaggle.com/thiagolermen/dataset-face-mask-detection)
 
-![dataset](https://user-images.githubusercontent.com/49798588/122326388-9d3f7d00-cf02-11eb-9869-0b73177ecf13.png)
-
+![dataset](https://user-images.githubusercontent.com/49798588/122326608-ee4f7100-cf02-11eb-92aa-fc8184e91db0.png)
 
 
 The dataset was divided into a training set and a cross validation set as follows:
