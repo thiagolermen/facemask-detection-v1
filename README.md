@@ -14,6 +14,7 @@ The classes are:
 The face mask detection models was made with two mainstream deep learning frameworks:
   1. Tensorflow 2.0
   2. Keras
+  3. PyTorch
  
 It was used OpenCV and NumPy for image processing.
 
